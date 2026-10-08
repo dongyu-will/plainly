@@ -1,4 +1,4 @@
-# 一眼懂文案
+# Plainly · 明白话
 
 [English](README.md)
 
@@ -31,7 +31,7 @@
 将仓库克隆到个人技能目录：
 
 ```sh
-git clone https://github.com/dongyu-will/plain-language-copy.git "${CODEX_HOME:-$HOME/.codex}/skills/plain-language-copy"
+git clone https://github.com/dongyu-will/plainly.git "${CODEX_HOME:-$HOME/.codex}/skills/plainly"
 ```
 
 目录已存在时，先检查现有文件，再更新，避免覆盖自己的改动。技能尚未出现在列表中时，开始一个新对话。
@@ -41,7 +41,7 @@ git clone https://github.com/dongyu-will/plain-language-copy.git "${CODEX_HOME:-
 ## 使用
 
 ```text
-$plain-language-copy
+$plainly
 重写下面的文案，让第一次使用的人一眼看懂。
 功能和事实不改，输出“原文案 → 新文案”对照表。
 功能含义不确定时先问我：

@@ -1,9 +1,9 @@
 ---
-name: plain-language-copy
+name: plainly
 description: "Rewrite user-facing product and service copy in plain language. Use for UI labels and actions, messages and notices, help and onboarding, or concise page and product descriptions. Preserve meaning and behavior, compare original and revised copy, and clarify ambiguous functionality."
 ---
 
-# Plain Language Copy
+# Plainly
 
 Help people understand at a glance what something is, what it does, and what to do next. Combine product judgment with concrete, concise, restrained writing.
 

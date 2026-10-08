@@ -1,4 +1,4 @@
-# Plain Language Copy
+# Plainly
 
 [简体中文](README.zh-CN.md)
 
@@ -31,7 +31,7 @@ For Chinese short UI copy, names default to **2–4 characters** and one-line de
 Clone this repository into your personal skills directory:
 
 ```sh
-git clone https://github.com/dongyu-will/plain-language-copy.git "${CODEX_HOME:-$HOME/.codex}/skills/plain-language-copy"
+git clone https://github.com/dongyu-will/plainly.git "${CODEX_HOME:-$HOME/.codex}/skills/plainly"
 ```
 
 If that directory already exists, review and update its files instead of cloning over it. Start a new chat if the newly installed skill is not listed.
@@ -41,7 +41,7 @@ This is an instruction-only skill. It requires no API keys or additional runtime
 ## Use
 
 ```text
-$plain-language-copy
+$plainly
 Rewrite the following admin copy for first-time users.
 Preserve the actual functionality and return a before/after table.
 Ask about ambiguous actions before rewriting them:
@@ -51,7 +51,7 @@ Ask about ambiguous actions before rewriting them:
 Chinese requests work too:
 
 ```text
-$plain-language-copy
+$plainly
 重写下面的后台文案，使用日常说法，保留功能和事实。
 输出“原文案 → 新文案”对照表，不确定的功能含义先问我。
 [粘贴文案]
