@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plain Language Copy"
+  short_description: "Clear product copy that preserves meaning and behavior"
+  default_prompt: "Use $plain-language-copy to rewrite the following copy in the product's language, preserve behavior and facts, return a before/after table, and ask about ambiguous functionality."
